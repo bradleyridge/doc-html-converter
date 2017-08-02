@@ -1,0 +1,19 @@
+{
+  "name": "bradley-ridge",
+  "version": "1.0.0",
+  "description": "Converts docx to html.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-html-beautify": "^1.0.1",
+    "mammoth": "^1.4.2",
+    "replace-ext": "^1.0.0",
+    "through2": "^2.0.3"
+  }
+}
